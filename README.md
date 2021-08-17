@@ -1,25 +1,6 @@
 # my-trello
 
-## Project setup
-```
-npm install
-```
+Trello 風アプリの作成
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-＃my-trello
+Vue.js 初学
+Vuex 使用
